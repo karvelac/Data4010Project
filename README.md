@@ -4,8 +4,6 @@
 **I have bolded this for emphasis**
 
 😆
-🇬🇷
-☦️
 *This has been italicized just to demonstrate that I can*
 >"This quotation is not from anyone,
 >it is just present in order to demonstrate that block texts exist in markdown
@@ -25,7 +23,7 @@
 
 [this page](https://github.com/karvelac/Data4010Project/new/main?readme=1)
 
-'code code code code code code'
+`code code code code code code`
 
 ```
 This is a lot of code that will take up
@@ -36,4 +34,7 @@ because it is very long
 |col 1|col2|
 |---|---|
 |The stuff we put in column 1| The stuff we put in columns 2|
+
+@karvelac
+
 
