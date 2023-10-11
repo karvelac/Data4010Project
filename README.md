@@ -3,7 +3,9 @@
 
 **I have bolded this for emphasis**
 
-
+😆
+🇬🇷
+☦️
 *This has been italicized just to demonstrate that I can*
 >"This quotation is not from anyone,
 >it is just present in order to demonstrate that block texts exist in markdown
